@@ -3,7 +3,6 @@ import random
 from random import shuffle
 from itertools import chain
 from sklearn import svm
-import train_model
 
 class Player:
     def __init__(self, myHand, opponents):
